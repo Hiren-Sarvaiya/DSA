@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -14,8 +15,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Hiren-Sarvaiya/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
